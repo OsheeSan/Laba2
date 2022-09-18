@@ -1,0 +1,21 @@
+<Group>
+<rregeg>
+
+<Vegetables>
+<Vegetables group>
+
+<Fruits>
+<Fruits group>
+
+<Water>
+<Water group>
+
+<Sweets>
+<Sweets group>
+
+<Meat>
+<Meat group>
+
+<Сereals>
+<Cereals group>
+

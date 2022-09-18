@@ -1,0 +1,6 @@
+<Cow>
+<Farm>
+<Tasty meat>
+<30.0>
+<4000>
+<Meat>
